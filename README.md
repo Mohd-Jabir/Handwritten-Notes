@@ -1,4 +1,4 @@
-# Ha# 📝 Handwritten Notes Archive
+# 📝 Handwritten Notes Archive
 
 A personal collection of handwritten notes created during my learning journey. These notes are shared publicly to help others and are updated regularly.
 
